@@ -23,3 +23,12 @@ Sample CDS hook, run application via `npm start`
 ```
 
 ![Alt text](./help-img.jpeg?raw=true "Sample App Running")
+
+
+### TroubleShoot
+
+* If you face error, while adding cds-service to Sandbox. Add a custom header to your request `ngrok-skip-browser-warning` with any value `true`
+
+![Alt text](./troubleshoot1.jpeg?raw=true "Troubleshoot")
+
+![Alt text](./troubleshoot2.jpeg?raw=true "Troubleshoot")
