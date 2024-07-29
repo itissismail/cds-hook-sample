@@ -1,4 +1,4 @@
-# Sample CDS Hook
+# Sample CDS Hook Service
 
 CDS Hook Patient Card
 
