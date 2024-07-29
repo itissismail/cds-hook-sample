@@ -16,9 +16,10 @@ Sample CDS hook, run application via `npm start`
 ### Running 
 
  ```
-ngrok tunnel --label edge=[EDGE ID] http://localhost:3000
-Goto https://sandbox.cds-hooks.org/
-Add CDS Service url https://[ngrokBaseURL]/cds-services
+* npm start
+* ngrok tunnel --label edge=[EDGE ID] http://localhost:3000
+* Goto https://sandbox.cds-hooks.org/
+* Add CDS Service url https://[ngrokBaseURL]/cds-services
 ```
 
 ![Alt text](./help-img.jpeg?raw=true "Sample App Running")
