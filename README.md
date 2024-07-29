@@ -4,7 +4,7 @@ CDS Hook Patient Card
 
 ## Description
 
-Sample CDS hook, run application via `npm start` 
+Sample CDS hook, which allows external EHR to communicate with external services for decision support. 
 
 ## Getting Started
 
